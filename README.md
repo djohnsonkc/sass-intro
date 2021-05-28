@@ -13,9 +13,9 @@ https://www.youtube.com/watch?v=Zz6eOVaaelI
 
 ## These are the concepts covered in the tutorial
 
-- Nesting
-- Imports
 - Variables
+- Imports
+- Nesting
 - Mixins
 - Inheritance
   
