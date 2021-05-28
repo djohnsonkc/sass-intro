@@ -45,7 +45,4 @@ Paste this into settings.json to dictate the output directory and minify the fin
     }
 ]
 
-Make sure and change your index.html file's link to your output style sheet
-<link rel="stylesheet" href="./dist/css/styles.min.css">
-
-
+Make sure and change your index.html file's link to your output style sheet to "./dist/css/styles.min.css"
