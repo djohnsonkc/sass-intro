@@ -1,3 +1,12 @@
+// include other Sass components
+@import "./colors";
+
 h1 {
-    color: red;
+  color: $textColor;
+}
+
+p {
+
+  background: $primaryColor;
+
 }
